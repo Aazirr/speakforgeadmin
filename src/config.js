@@ -1,0 +1,1 @@
+export const API_BASE_URL = 'https://speakforge-a52586b8a3f8.herokuapp.com/api/admin'; // Corrected base URL for admin endpoints 
